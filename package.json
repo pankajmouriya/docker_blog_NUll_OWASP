@@ -1,0 +1,16 @@
+{
+  "name": "Hello geeks",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Demo for NUll/OWASP chandigarh chapter",
+  "main": "app.js",
+  "author": "Pankaj Mouriya <getmein.org@gmail.com>",
+  "license": "I won't tell",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jade": "^1.11.0",
+    "mocha": "3.5.3",
+    "pug": "^2.0.4",
+    "supertest": "3.0.0"
+  }
+}
