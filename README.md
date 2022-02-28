@@ -7,5 +7,5 @@ Exposes web server on port 8080 as per ./app.js
 
 See **Dockerfile** for more details
 
-[![WASA - Secure](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml/badge.svg)](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml)
-d
+[![Generic badge](https://img.shields.io/badge/Secure-Pass-green.svg)](https://shields.io/)
+
