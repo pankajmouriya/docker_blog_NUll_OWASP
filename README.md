@@ -7,4 +7,4 @@ Exposes web server on port 8080 as per ./app.js
 
 See **Dockerfile** for more details
 
-<span style="color: green"> Some green text </span>
+[![Weekly secrets scan](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml/badge.svg)](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml)
