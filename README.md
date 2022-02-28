@@ -7,4 +7,4 @@ Exposes web server on port 8080 as per ./app.js
 
 See **Dockerfile** for more details
 
-[![Weekly secrets scan](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml/badge.svg)](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml)
+[![WASA - Secure](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml/badge.svg)](https://github.com/invideoio/iv-admin-web/actions/workflows/weekly-secret-scan.yml)
