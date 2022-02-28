@@ -9,3 +9,6 @@ See **Dockerfile** for more details
 
 [![Generic badge](https://img.shields.io/badge/Pentest-Secure-green.svg)](https://shields.io/)
 
+
+[![Pentest Badge](https://github.com/invideoio/invideo-payments/actions/workflows/Pentest.yml/badge.svg)](https://github.com/invideoio/invideo-payments/actions/workflows/Pentest.yml)
+
