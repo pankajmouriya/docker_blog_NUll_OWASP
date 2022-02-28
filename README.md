@@ -6,3 +6,5 @@ Its a static page for demonstarting the Devs perspective in Docker World.
 Exposes web server on port 8080 as per ./app.js
 
 See **Dockerfile** for more details
+
+<span style="color: green"> Some green text </span>
