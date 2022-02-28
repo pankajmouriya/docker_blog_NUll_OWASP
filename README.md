@@ -7,5 +7,5 @@ Exposes web server on port 8080 as per ./app.js
 
 See **Dockerfile** for more details
 
-[![Generic badge](https://img.shields.io/badge/Secure-Pass-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Pentest-Secure-green.svg)](https://shields.io/)
 
