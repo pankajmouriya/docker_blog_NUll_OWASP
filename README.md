@@ -1,4 +1,6 @@
 # Simple web app Null/OWASP combined meetup talk
+![Generic badge](https://badgen.net/badge/Pentest/Secure/green?icon=github)
+
 Its a static page for demonstarting the Devs perspective in Docker World.
 
 **This app is not maintained and might be full of vulnerbilities. Use at own risk**
@@ -10,5 +12,4 @@ See **Dockerfile** for more details
 [![Generic badge](https://img.shields.io/badge/Pentest-Secure-green.svg)](https://shields.io/)
 
 
-![Generic badge](https://badgen.net/badge/Pentest/Secure/green?icon=github)
 
