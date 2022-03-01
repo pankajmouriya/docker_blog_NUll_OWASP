@@ -10,5 +10,5 @@ See **Dockerfile** for more details
 [![Generic badge](https://img.shields.io/badge/Pentest-Secure-green.svg)](https://shields.io/)
 
 
-![Generic badge](https://badgen.net/badge/Pentest/Secure-100%/green?icon=github&label=pentest)
+![Generic badge](https://badgen.net/badge/Pentest/Secure/green?icon=github&label=pentest)
 
