@@ -14,7 +14,7 @@
     "mocha": "3.5.3",
     "pug": "^2.0.4",
     "supertest": "3.0.0",
-    "snyk": "^1.316.1"
+    "snyk": "^1.996.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
